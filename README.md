@@ -12,7 +12,7 @@
 >Логгер: **logrus**
 
 
-Для миграций используется [migrate]([https://link-url-here.org](https://github.com/golang-migrate/migrate))
+Для миграций используется [migrate](https://github.com/golang-migrate/migrate)
 
 Порт **8080**.
 
