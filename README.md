@@ -29,7 +29,7 @@
 
 
 ```
-docker compose up
+docker-compose up
 ```
 
 Написано не очень хорошо, но мог написать и лучше.
