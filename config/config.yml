@@ -1,0 +1,2 @@
+server_port: :8080
+database_url: 'host=postgres user=user dbname=testdb password=mypassword sslmode=disable'
