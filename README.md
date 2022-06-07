@@ -3,13 +3,13 @@
 ## Тестовое задание.
 
 
-СУБД: **postgres** (github.com/lib/pq)
-
-Роутер: **julienschmidt/httprouter**
-
-Валидация: **go-playground/validator/v10**
-
-Логгер: **logrus**
+>СУБД: **postgres** (github.com/lib/pq)
+>
+>Роутер: **julienschmidt/httprouter**
+>
+>Валидация: **go-playground/validator/v10**
+>
+>Логгер: **logrus**
 
 
 Для миграций используется [migrate]([https://link-url-here.org](https://github.com/golang-migrate/migrate))
